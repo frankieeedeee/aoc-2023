@@ -1,0 +1,11 @@
+{
+  "name": "aoc-2023",
+  "scripts": {
+    "main": "func() { node ./day/\"$1\"/exec.js; }; func"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankieeedeee/aoc-2023.git"
+  },
+  "license": "ISC"
+}
